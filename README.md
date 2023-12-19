@@ -1,1 +1,1 @@
-# LLM--Detect-AU-Generated-Text
+# LLM--Detect-AI-Generated-Text
